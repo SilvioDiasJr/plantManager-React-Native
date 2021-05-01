@@ -2,7 +2,7 @@ import React, { useEffect, useState } from 'react'
 import { Image, StyleSheet, Text, View } from 'react-native'
 import AsyncStorage from '@react-native-async-storage/async-storage'
 
-import userImg from '../assets/silvio.png'
+import userImg from '../assets/avatar.png'
 
 import colors from '../styles/colors'
 import fonts from '../styles/fonts'
